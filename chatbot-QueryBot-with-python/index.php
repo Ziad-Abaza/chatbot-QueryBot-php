@@ -46,7 +46,7 @@
     flex-direction: column;
     align-items: center;
     margin-top: auto;
-    margin-bottom: 10%; /* تحديث هنا للمسافة السفلية */
+    margin-bottom: 10%; 
 }
 
         button[type="submit"] {
